@@ -4,7 +4,7 @@ Repo for data analysis of white matter metanalysis project
 The jupyter notebook in this repo should be used to run white matter tract metanalysis. The jupyter notebook must have inputs of white matter tract end point ROIs (can be accessed or created from [Brainlife.io](https://brainlife.io/projects)), and outputs a set of figures (surface map, word cloud, and radar plot) to visualize the functional topics associated with each white matter tract end point ROIs.
 
 ## Installation
-Install [gradec](https://github.com/JulioAPeraza/gradec/tree/main) package from python using
+Install [gradec](https://github.com/JulioAPeraza/gradec/tree/main) package from github using
 `pip install git+https://github.com/JulioAPeraza/gradec.git` before running either jupyter notebook.
 
 ## Files
