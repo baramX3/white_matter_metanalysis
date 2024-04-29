@@ -1,4 +1,4 @@
-# white_matter_metanalysis
+# White matter metanalysis project
 Repo for data analysis of white matter metanalysis project
 
 The jupyter notebook in this repo should be used to run white matter tract metanalysis. The jupyter notebook must have inputs of white matter tract end point ROIs (can be accessed or created from [Brainlife.io](https://brainlife.io/projects)), and outputs a set of figures (surface map, word cloud, and radar plot) to visualize the functional topics associated with each white matter tract end point ROIs.
